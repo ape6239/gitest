@@ -25,7 +25,7 @@ are you kiding me
 1. nihai haoma 
 
 2. 从书写的角度来说 typo更方便呢
-- 【此处应该是序号】
+- 【此处应该是点点】
 
 
 1. 拟在建了
