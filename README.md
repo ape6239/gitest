@@ -1,4 +1,5 @@
-# - 使用webstorm进行vue开发
+# 
+- 使用webstorm进行vue开发
 - 使用pycharm进行django开发
 - 使用vscode进行markdown文档编写
 
